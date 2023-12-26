@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.image {
+  height: 20vh;
+  width: 100vw;
+}
+.the-cont{
+  display:flex;
+  flex-direction:column;
+  background-color:#000000;
+}
+.main{
+  margin:2px;
+}
